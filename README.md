@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 
 ![s-polat's github stats](https://github-readme-stats.vercel.app/api?username=s-polat&theme=gruvbox&show_icons=true)
 
+<img  src="https://github-readme-stats.vercel.app/api?username=s-polat&show_icons=true&count_private=true&line_height=27&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&title_color=FFFFFF" />
+
