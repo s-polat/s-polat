@@ -5,7 +5,7 @@
 
 
 
-Here are some ideas to get you started:
+<!--- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,11 +14,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... ---!>
 
-![s-polat's github stats](https://github-readme-stats.vercel.app/api?username=s-polat&theme=gruvbox&show_icons=true)
 
-<img  src="https://github-readme-stats.vercel.app/api?username=s-polat&show_icons=true&count_private=true&line_height=27&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&title_color=FFFFFF" />
 
 ## Github Stats
 
