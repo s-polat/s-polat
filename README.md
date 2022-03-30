@@ -3,7 +3,7 @@
 
 **s-polat/s-polat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Hey there, I'm SIDDIK. I'm a Frontend developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
+
 
 Here are some ideas to get you started:
 
