@@ -61,4 +61,5 @@
 
 <p align="center">
   <img width="200" height="100" src="https://math.sun.ac.za/prodinger/thanks.gif">
+![VisitorCount](https://profile-counter.glitch.me/s-polat/count.svg)
 </p>
