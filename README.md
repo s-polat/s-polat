@@ -61,4 +61,6 @@
 
 <p align="center">
   <img width="200" height="100" src="https://math.sun.ac.za/prodinger/thanks.gif">
+	<br/>
+	<img src="https://profile-counter.glitch.me/Shwetang550/count.svg" />
 </p>
