@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 
 <img  src="https://github-readme-stats.vercel.app/api?username=s-polat&show_icons=true&count_private=true&line_height=27&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&title_color=FFFFFF" />
 
+<p align="center">
+  <img width="200" height="100" src="https://math.sun.ac.za/prodinger/thanks.gif">
+</p>
