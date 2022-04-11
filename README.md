@@ -43,7 +43,7 @@
 <a href="#"><img alt="Intellij" src="https://img.shields.io/badge/IntelliJ&nbsp;IDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
 </p>
 <p align="center">
-## Connect with Me
+	<b>Connect with Me</b>
  </p>
 
 <p align="center">
