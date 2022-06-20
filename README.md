@@ -4,7 +4,10 @@
 
 ## Github Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=s-polat&&show_icons=true&count_private=true&theme=github_dark"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-polat&layout=compact&theme=github_dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=s-polat&&show_icons=true&count_private=true&theme=github_dark">
+</p>	
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-polat&layout=compact&theme=github_dark"/>
 </p>
 
 
